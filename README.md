@@ -1,6 +1,7 @@
 # Prediccion de ingreso de peliculas.
-Este repositorio contiene el flujo de resolución de un problema de predicción de ingreso de peliculas con la base de datos de IMDB:
-Estudio completo del ciclo de ingeniería del Machine Learning.
+Este repositorio contiene el flujo de resolución de un problema de predicción de ingreso de peliculas con la base de datos de IMDB.
+
+Estudio completo del ciclo de ingeniería del Machine Learning:
 
 Preparación de datos: Cleaning, Imputation, Merging (Numpy, Pandas).
 
