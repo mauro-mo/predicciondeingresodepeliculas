@@ -4,7 +4,7 @@ Este repositorio contiene el flujo de resolución de un problema de predicción 
 Estudio completo del ciclo de ingeniería del Machine Learning:
 
 
-    •   Preparación de datos: Cleaning, Imputation, Merging (Numpy, Pandas).
+    •       Preparación de datos: Cleaning, Imputation, Merging (Numpy, Pandas).
 
     •	Feature Engineering: One-hot encode, Scaling, Feature Design.
 
